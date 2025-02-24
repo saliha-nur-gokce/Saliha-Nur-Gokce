@@ -1,5 +1,5 @@
 # 💫 About Me:
-An economics student who is interested in data science.
+I’m a senior economics student at Boğaziçi University, with a strong interest in data analytics, automation, and machine learning applications. I enjoy working with large datasets, uncovering patterns, and building efficient workflows with Python, R, and SQL. I’m currently exploring machine learning applications and improving my skills in finance-related data analysis. 
 
 
 ## 🌐 Socials:
